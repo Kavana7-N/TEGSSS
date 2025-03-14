@@ -1,4 +1,4 @@
-package com.Kavana7-N;
+package com.Kavana7_N;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
